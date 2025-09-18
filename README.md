@@ -42,7 +42,12 @@ A modern, Java-based burger shop management system designed to make your busines
 4. View sales reports and analytics.
 
 ### 🖥️ Screenshots
-> _Add screenshots here to showcase the UI and features._
+
+Below is a screenshot of the application interface:
+
+![Application Screenshot](screenshots/1.jpg)
+
+_For more screenshots, see the `screenshots` folder in this repository._
 
 ---
 
@@ -72,7 +77,7 @@ Developed by [codewitharavinda](https://github.com/codewitharavinda).
 ## 📬 Contact & Support
 
 - For issues, suggestions, or feature requests, open an issue on the [GitHub repository](https://github.com/codewitharavinda/Burger-Shop-v2).
-- Email: _your-email@example.com_
+- Email: _supunaravinda2004@gmail.com_
 
 ---
 
